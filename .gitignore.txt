@@ -1,2 +1,2 @@
 TEST
-ignorarcarpeta22
+ignorarcarpeta2
